@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,5 @@ Things you may want to cover:
 * ...
 =======
 # sample_app
->>>>>>> origin/master
+* Railsチュートリアル 3章　& git学習
+  https://railstutorial.jp/chapters/static_pages?version=5.0#sec-sample_app_setup
