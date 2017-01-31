@@ -1,32 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# sample_app
-* Railsチュートリアル 3章　& git学習
-  https://railstutorial.jp/chapters/static_pages?version=5.0#sec-sample_app_setup
-
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
   これは、次の教材で作られたサンプルアプリケーションです。   
@@ -39,7 +12,7 @@ Things you may want to cover:
   MIT ライセンスと Beerware ライセンスのもとに公開されています。
   詳細は [LICENSE.md](LICENSE.md) をご覧ください。
 
-  ## 使い方
+## 使い方
 
   このアプリケーションを動かす場合は、まずはリポジトリを手元にクローンしてください。
   次に、次のコマンドで必要になる Ruby Gems をインストールします。
@@ -67,3 +40,28 @@ Things you may want to cover:
   ```
 
   詳しくは、[*Ruby on Rails チュートリアル*](http://railstutorial.jp/)を参考にしてください。
+
+  =======
+
+  This README would normally document whatever steps are necessary to get the
+  application up and running.
+
+  Things you may want to cover:
+
+  * Ruby version
+
+  * System dependencies
+
+  * Configuration
+
+  * Database creation
+
+  * Database initialization
+
+  * How to run the test suite
+
+  * Services (job queues, cache servers, search engines, etc.)
+
+  * Deployment instructions
+
+  * Railsチュートリアル 3章　& git学習として
